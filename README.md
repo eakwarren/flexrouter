@@ -16,8 +16,10 @@ K6: Documents/Native Instruments/Kontakt/presets/Multiscripts
 K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts
 
 3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP KS Translator.
+<img width="657" alt="Screenshot 2024-10-02 at 3 26 08 PM" src="https://github.com/user-attachments/assets/fa3cf539-4943-4d8e-9a2a-d20011b61b82">
 
 4. Select the library for translation, then click the KSP button to close the multiscript.
+<img width="366" alt="Screenshot 2024-10-02 at 3 28 21 PM" src="https://github.com/user-attachments/assets/dbb3a3ef-e1dc-4c32-9be8-d8506c174ad0">
 
 
 # FlexRouter
