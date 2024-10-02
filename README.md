@@ -1,4 +1,4 @@
-# FlexRouter Kontakt Script for Divisimate
+# Kontakt Multiscript for Divisimate Templates
 Developed with ❤️ by Eric Warren
 
 # About
@@ -22,9 +22,9 @@ K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts
 <img width="366" alt="Screenshot 2024-10-02 at 3 28 21 PM" src="https://github.com/user-attachments/assets/dbb3a3ef-e1dc-4c32-9be8-d8506c174ad0">
 
 
-# FlexRouter
+# FlexRouter 
 
-*Originally forked from [jtackaberry/flexrouter](https://github.com/jtackaberry/flexrouter)*
+*Forked from [jtackaberry/flexrouter](https://github.com/jtackaberry/flexrouter)*
 
 
 ## What is it?
