@@ -1,6 +1,28 @@
+# FlexRouter Kontakt Script for Divisimate
+Developed with ❤️ by Eric Warren
+
+# About
+This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate's Synchron Prime 2.0 template](https://divisimate.com/templates/synchron-prime-2-0) to the default keyswitches used by other sample libraries.
+
+* Cinematic Studio Series
+* Spitfire Symphonic Orchestra 2024 edition
+
+# Setup
+1. Click on a .nkp file above and download the raw file in the top-right corner.  
+   <img width="171" src="https://github.com/user-attachments/assets/84a631a8-af67-4092-bef4-e8cf76fe2574" />
+
+2. Copy the .nkp to _each_ of your Kontakt version's Multiscripts folders.  
+K6: Documents/Native Instruments/Kontakt/presets/Multiscripts  
+K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts
+
+3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP KS Translator.
+
+4. Select the library for translation, then click the KSP button to close the multiscript.
+
+
 # FlexRouter
 
-*Quick link to [the compiled script for the latest version](https://urandom.ca/flexrouter/latest)*
+*Originally forked from [jtackaberry/flexrouter](https://github.com/jtackaberry/flexrouter)*
 
 
 ## What is it?
