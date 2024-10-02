@@ -85,9 +85,11 @@ function get_midi_channel_name(channel) -> name
     name := !channel_names[channel - 1]
 end function
 
-function xor(a, b) -> result
-    result := (a .and. .not. b) .or. (.not. a .and. b)
-end function
+// https://vi-control.net/community/threads/bug-in-ksp-function-expansion.50790/post-3925583
+// won't compile with either result line. xor isn't called in flexrouter so commenting out
+// function xor(a, b) -> result
+//    result := (a .and. .not. b) .or. (.not. a .and. b)
+//end function
 
 // Oh KSP, how do I love thee. Let me count the ways.
 
