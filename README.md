@@ -1,4 +1,4 @@
-# Kontakt Multiscript for Divisimate Templates
+# Kontakt Multiscript for Divisimate Prime 2.0 Template
 Developed with ❤️ by Eric Warren
 
 # About
