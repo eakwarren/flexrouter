@@ -1,0 +1,4 @@
+1. Download the .pst file and copy to Macintosh HD/Users/USERNAME/Music/Audio Music Apps/Plug-In Settings/Scripter.
+
+2. In Logic Pro, load the Scripter plugin in a MidiFX slot in your channel strip. Then load the preset in the Scripter window.
+
