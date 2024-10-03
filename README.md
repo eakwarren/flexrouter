@@ -1,4 +1,4 @@
-# Kontakt Multiscript for Divisimate Prime 2.0 Template
+# Kontakt Keyswitch Translator for Divisimate Prime 2.0
 Developed with ❤️ by Eric Warren
 
 # About
