@@ -5,10 +5,10 @@ Developed with ❤️ by Eric Warren
 This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate's Synchron Prime 2.0 template](https://divisimate.com/templates/synchron-prime-2-0) to the default keyswitches used by other sample libraries.
 
 * Cinematic Studio Series
-* Spitfire Symphonic Orchestra 2024 edition
+* Spitfire Symphonic Orchestra 2024
 
 # Setup
-1. Click on a .nkp file above and download the raw file in the top-right corner.  
+1. Click on the .nkp file above and download the raw file in the top-right corner.  
    <img width="171" src="https://github.com/user-attachments/assets/84a631a8-af67-4092-bef4-e8cf76fe2574" />
 
 2. Copy the .nkp to _each_ of your Kontakt version's Multiscripts folders.  
