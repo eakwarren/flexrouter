@@ -1,4 +1,4 @@
-# Keyswitch Translators for Divisimate Prime 2.0
+# Keyswitch Translators for Divisimate Prime 2.0 and Berlin Orchestra Templates
 Developed with ❤️ by Eric Warren
 
 # About
@@ -7,7 +7,7 @@ This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate'
 * Cinematic Studio Series
 * Spitfire Symphonic Orchestra 2024
 
-There's also a Logic Pro Scripter preset for translation to Spitfire BBC Symphony Orchestra Core. (Since it uses its own plugin and not Kontakt.)
+There's also a Logic Pro Scripter preset for translation to Spitfire BBC Symphony Orchestra Core. (Since it uses its own plugin and not Kontakt.) And presets to translate the [Berlin Orchestra Template](https://divisimate.com/blog/berlin-orchestra-template/) triggers to [Berlin Free Orchestra](https://www.orchestraltools.com/berlin-free-orchestra).
 
 # Setup
 1. Click on the .nkp file above and download the raw file in the top-right corner.  
