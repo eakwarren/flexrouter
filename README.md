@@ -8,7 +8,9 @@ This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate'
 * Spitfire Symphonic Orchestra 2024
 * Spitfire BBC Symphony Orchestra Core
 
-The Logic Pro Scripter presets are for translation to Spitfire BBC Symphony Orchestra Core and [Berlin Free Orchestra](https://www.orchestraltools.com/berlin-free-orchestra). (Since they use their own plugins and not Kontakt.)
+The Logic Pro Scripter presets are for translation to [Spitfire BBC Symphony Orchestra Core](https://www.spitfireaudio.com/bbc-symphony-orchestra-core) and [Berlin Free Orchestra](https://www.orchestraltools.com/berlin-free-orchestra). (Since they use their own plugins and not Kontakt.)  
+<img width="472" alt="Screenshot 2025-06-23 at 1 55 01 PM" src="https://github.com/user-attachments/assets/fede6fc9-8b6e-4fce-b32c-1aa05acaf40d" />
+
 
 # Setup
 1. Click on the .nkp file above and download the raw file in the top-right corner.  
