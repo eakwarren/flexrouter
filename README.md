@@ -19,14 +19,14 @@ K6: Documents/Native Instruments/Kontakt/presets/Multiscripts
 K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts, etc.
 
 3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP & BO to CSS & SSO UACC KS.
-<img width="657" alt="Screenshot 2024-10-02 at 3 26 08 PM" src="https://github.com/user-attachments/assets/fa3cf539-4943-4d8e-9a2a-d20011b61b82">
+<img width="658" alt="Screenshot 2025-06-23 at 1 33 29 PM" src="https://github.com/user-attachments/assets/0bc21561-a922-4519-a97f-41514a82e724" />
 
 4. Select the library for translation at the top, _turn off the Bypass Group button_, then click the KSP button to close the multiscript.
 
 #### ⚠️ Note
 **_The keyswitch groups are all bypassed by default because flexrouter processes all groups, not just the one shown. Therefore, some of the keyswitches conflict between the various instrument libraries. You must turn off the Bypass Group button for the group of keyswitches you use. Not doing this won't send any keyswitches through the script._** 
 
-<img width="366" alt="Screenshot 2024-10-02 at 3 28 21 PM" src="https://github.com/user-attachments/assets/dbb3a3ef-e1dc-4c32-9be8-d8506c174ad0">
+<img width="654" alt="Screenshot 2025-06-23 at 1 35 21 PM" src="https://github.com/user-attachments/assets/bf509adf-0d60-492f-8ba8-a9800fbdc568" />
 
 
 # Original FlexRouter Info 
