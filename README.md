@@ -2,12 +2,13 @@
 Developed with ❤️ by Eric Warren
 
 # About
-This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate's Synchron Prime 2.0 template](https://divisimate.com/templates/synchron-prime-2-0) to the default keyswitches used by other sample libraries.
+This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate's Synchron Prime 2.0 template](https://divisimate.com/templates/synchron-prime-2-0) or [Berlin Orchestra template](https://divisimate.com/templates/berlin-orchestra) to the default keyswitches used by other sample libraries.
 
 * Cinematic Studio Series
 * Spitfire Symphonic Orchestra 2024
+* Spitfire BBC Symphony Orchestra Core
 
-There's also a Logic Pro Scripter preset for translation to Spitfire BBC Symphony Orchestra Core. (Since it uses its own plugin and not Kontakt.) And presets to translate the [Berlin Orchestra Template](https://divisimate.com/blog/berlin-orchestra-template/) triggers to [Berlin Free Orchestra](https://www.orchestraltools.com/berlin-free-orchestra).
+The Logic Pro Scripter presets are for translation to Spitfire BBC Symphony Orchestra Core and [Berlin Free Orchestra](https://www.orchestraltools.com/berlin-free-orchestra). (Since they use their own plugins and not Kontakt.)
 
 # Setup
 1. Click on the .nkp file above and download the raw file in the top-right corner.  
@@ -15,16 +16,20 @@ There's also a Logic Pro Scripter preset for translation to Spitfire BBC Symphon
 
 2. Copy the .nkp to _each_ of your Kontakt version's Multiscripts folders.  
 K6: Documents/Native Instruments/Kontakt/presets/Multiscripts  
-K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts
+K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts, etc.
 
-3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP KS Translator.
+3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP & BO to CSS & SSO UACC KS.
 <img width="657" alt="Screenshot 2024-10-02 at 3 26 08 PM" src="https://github.com/user-attachments/assets/fa3cf539-4943-4d8e-9a2a-d20011b61b82">
 
-4. Select the library for translation, then click the KSP button to close the multiscript.
+4. Select the library for translation at the top, _turn off the Bypass Group button_, then click the KSP button to close the multiscript.
+
+#### ⚠️ Note
+**_The keyswitch groups are all bypassed by default because flexrouter processes all groups, not just the one shown. Therefore, some of the keyswitches conflict between the various instrument libraries. You must turn off the Bypass Group button for the group of keyswitches you use. Not doing this won't send any keyswitches through the script._** 
+
 <img width="366" alt="Screenshot 2024-10-02 at 3 28 21 PM" src="https://github.com/user-attachments/assets/dbb3a3ef-e1dc-4c32-9be8-d8506c174ad0">
 
 
-# FlexRouter 
+# Original FlexRouter Info 
 
 *Forked from [jtackaberry/flexrouter](https://github.com/jtackaberry/flexrouter)*
 
