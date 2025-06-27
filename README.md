@@ -13,14 +13,14 @@ The Logic Pro Scripter presets are for translation to [Spitfire BBC Symphony Orc
 
 
 # Setup
-1. Click on the .nkp file above and download the raw file in the top-right corner.  
+1. Click the _DM2 VSP & BO to CSS KS CC & SSO UACC KS.nkp_ file above and download the raw file in the top-right corner. (Don't download anything in the src folder.)  
    <img width="171" src="https://github.com/user-attachments/assets/84a631a8-af67-4092-bef4-e8cf76fe2574" />
 
 2. Copy the .nkp to _each_ of your Kontakt version's Multiscripts folders.  
 K6: Documents/Native Instruments/Kontakt/presets/Multiscripts  
 K7: Documents/Native Instruments/Kontakt 7/presets/Multiscripts, etc.
 
-3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP & BO to CSS & SSO UACC KS.
+3. In Kontakt, load the multiscript by clicking the KSP button, then click Preset > User > DM2 VSP & BO to CSS KS CC & SSO UACC KS.
 <img width="658" alt="Screenshot 2025-06-23 at 1 33 29 PM" src="https://github.com/user-attachments/assets/0bc21561-a922-4519-a97f-41514a82e724" />
 
 4. Select the library for translation at the top, _turn off the Bypass Group button_, then click the KSP button to minimize the multiscript (if desired).
