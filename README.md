@@ -2,7 +2,7 @@
 Developed with ❤️ by Eric Warren
 
 # About
-This KSP script for Kontakt 6+ translates the keyswitch triggers in [Divisimate's Synchron Prime 2.0 template](https://divisimate.com/templates/synchron-prime-2-0) or [Berlin Orchestra template](https://divisimate.com/templates/berlin-orchestra) to the default keyswitches used by other sample libraries.
+This KSP script for Kontakt 7+ translates the keyswitch triggers in [Divisimate's Synchron Prime 2.0 template](https://divisimate.com/templates/synchron-prime-2-0) or [Berlin Orchestra template](https://divisimate.com/templates/berlin-orchestra) to the default keyswitches used by other sample libraries.
 
 * Cinematic Studio Series
 * Spitfire Symphonic Orchestra 2024
